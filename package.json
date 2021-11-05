@@ -1,0 +1,23 @@
+{
+  "name": "my_apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LautaroTiamat/my_apis.git"
+  },
+  "author": "Rolon Lautaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LautaroTiamat/my_apis/issues"
+  },
+  "homepage": "https://github.com/LautaroTiamat/my_apis#readme",
+  "dependencies": {
+    "barcode-js": "^13.6.2812",
+    "express": "^4.17.1"
+  }
+}
